@@ -1,10 +1,3 @@
-## Problem
-Jadi,saya menemukan masalah ketika ingin mencari validasi dari sebuah data A(input) dari B(keywords)
-kasus ini saya temukan pada saat membuat voting via SMS Gateway dengan adanya 2 table dimana
-table A adalah Inputan dari SMS Masuk(Inbox)
-sedangkan Table B adalah(Database yang sudah di inputkan sebelumnya)
-
-Sederhananya,program ini adalah program validasi saja.
 
 
 ## Cara Kerja
